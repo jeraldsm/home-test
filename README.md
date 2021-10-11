@@ -9,7 +9,7 @@ Please write a simple CLI application in the language of your choice that does t
 * Please provide a README that explains in detail how to run the program on
 MacOS and Linux.
 
-Solution for scenario-1 is documented in https://github.com/jeraldsm/home-test/blob/main/scenario-1/
+Solution for scenario-1 is documented in https://github.com/jeraldsm/home-test/tree/master/scenario-1
 
 ## Scenario 2
 Imagine a server with the following specs:
@@ -23,4 +23,4 @@ The server is used for SSL offloading and proxies around 25000 requests per seco
 let us know which metrics are interesting to monitor in that specific case and how would you
 do that? What are the challenges of monitoring this?
 
-Solution for scenario-2 is documented in https://github.com/jeraldsm/home-test/blob/main/scenario-2/
+Solution for scenario-2 is documented in https://github.com/jeraldsm/home-test/tree/master/scenario-2
